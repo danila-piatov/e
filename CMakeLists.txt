@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0...4.0)
-project(e)
+project(e LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 26)
 

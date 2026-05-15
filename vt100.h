@@ -1,6 +1,7 @@
 #pragma once
 
 #include <format>
+#include <cstdint>
 #include <string>
 
 namespace e {

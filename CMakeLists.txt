@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.0 ... 4.0)
+cmake_minimum_required(VERSION 3.0...4.0)
 project(e)
 
 set(CMAKE_CXX_STANDARD 26)
